@@ -1,3 +1,14 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Cruises  Amazing Cruises and Cruise De_95ece5/label_Mexico",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027root\u0027]/div/div/div/div[3]/div/div/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/label",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Cruises  Amazing Cruises and Cruise De_95ece5/label_Mexico_idRelative.png"
+    }
+  ]
 }

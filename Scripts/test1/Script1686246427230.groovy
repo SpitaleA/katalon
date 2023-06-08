@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.royalcaribbean.com/')
 
+WebUI.click(findTestObject('Object Repository/Page_Cruises  Amazing Cruises and Cruise De_95ece5/div_cruise rooms_notification-banner__secti_617cae'))
+
 WebUI.click(findTestObject('Object Repository/Page_Cruises  Amazing Cruises and Cruise De_95ece5/div_Cruising to Any Destination'))
 
 WebUI.click(findTestObject('Object Repository/Page_Cruises  Amazing Cruises and Cruise De_95ece5/label_Mexico'))
@@ -35,7 +37,12 @@ WebUI.click(findTestObject('Object Repository/Page_Cruises  Amazing Cruises and 
 
 WebUI.click(findTestObject('Object Repository/Page_Cruises  Amazing Cruises and Cruise De_95ece5/button_Search Cruises'))
 
+WebUI.click(findTestObject('Object Repository/Page_Find Mexico Cruises from Los Angeles  _3e07dc/p_Recommended'))
+
 WebUI.click(findTestObject('Object Repository/Page_Find Mexico Cruises from Los Angeles  _3e07dc/p_Price lowest to highest'))
 
-WebUI.click(findTestObject('Object Repository/Page_Find Mexico Cruises from Los Angeles  _3e07dc/p_Price highest to lowest'))
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Find Mexico Cruises from Los Angeles  _3e07dc/h3_Ensenada Cruise'), 
+    'Ensenada Cruise')
+
+WebUI.closeBrowser()
 

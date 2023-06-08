@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.styles__Select-sc-109olgd-2.gnPBfy.btn-style-text.DROPDOWN_BUTTON > p</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='results-dropdown-sort']/div[2]/div/button/p</value>
+         <value>//div[@id='results-dropdown-sort']/div[2]/div/div/div/ul/li[2]/p</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>420be8c2-3f15-49c6-8c38-6ed1d873795c</webElementGuid>
+      <webElementGuid>f6bd8b29-48c0-4f09-99fd-a8b246507c4b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,55 +30,55 @@
       <name>text</name>
       <type>Main</type>
       <value>Price lowest to highest</value>
-      <webElementGuid>7b2516fd-c1c0-4f7d-a604-3759189a6084</webElementGuid>
+      <webElementGuid>31f2705c-0e3e-4ba2-adcf-856546fd3193</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;results-dropdown-sort&quot;)/div[@class=&quot;styles__Container-sc-109olgd-0 cVBVvq dropdown-container&quot;]/div[@class=&quot;styles__DropdownContainer-sc-109olgd-1 hVnCrU&quot;]/button[@class=&quot;styles__Select-sc-109olgd-2 gnPBfy btn-style-text DROPDOWN_BUTTON&quot;]/p[1]</value>
-      <webElementGuid>b3a530e4-8245-4a53-b65e-30de2802886f</webElementGuid>
+      <value>id(&quot;results-dropdown-sort&quot;)/div[@class=&quot;styles__Container-sc-109olgd-0 cVBVvq open dropdown-container&quot;]/div[@class=&quot;styles__DropdownContainer-sc-109olgd-1 hVnCrU&quot;]/div[@class=&quot;styles__Modal-sc-109olgd-3 jwdpgZ&quot;]/div[@class=&quot;styles__ModalDropdown-sc-109olgd-4 iYFnxJ&quot;]/ul[@class=&quot;styles__List-sc-109olgd-5 gTUHUS&quot;]/li[@class=&quot;styles__Item-sc-109olgd-6 iVxJwD dropdown-list-item&quot;]/p[1]</value>
+      <webElementGuid>e07680df-f179-4d60-b296-c37af1a44f58</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='results-dropdown-sort']/div[2]/div/button/p</value>
-      <webElementGuid>d9d4b81c-eafc-4d2e-88ba-3b6fdd0f53ec</webElementGuid>
+      <value>//div[@id='results-dropdown-sort']/div[2]/div/div/div/ul/li[2]/p</value>
+      <webElementGuid>848527c5-a333-4809-bb02-1896b7e037bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='USD'])[1]/following::p[2]</value>
-      <webElementGuid>eae73e96-fc46-4148-8311-d47d73b15e95</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='USD'])[1]/following::p[4]</value>
+      <webElementGuid>0cce610b-9898-4e42-adf2-67ba21889ff4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Currency:'])[1]/following::p[2]</value>
-      <webElementGuid>9cd55b0e-b31f-4dcd-801c-6b9b1edd4d37</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Currency:'])[1]/following::p[4]</value>
+      <webElementGuid>3248906f-5369-4342-a1a9-6243af1c3365</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ensenada Cruise'])[1]/preceding::p[5]</value>
-      <webElementGuid>2770c950-d3e4-4723-a3f9-3782db032204</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Includes Holiday Cruises'])[1]/preceding::p[4]</value>
+      <webElementGuid>c5a82eea-eb0e-47d4-89a6-42d61a88edca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Roundtrip From:'])[1]/preceding::p[6]</value>
-      <webElementGuid>40421c97-be38-4c95-803b-0bfb940e7758</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Catalina &amp; Ensenada Cruise'])[1]/preceding::p[4]</value>
+      <webElementGuid>5a7dfc83-fc26-416f-ab14-768169284fec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,15 +86,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Price lowest to highest']/parent::*</value>
-      <webElementGuid>d38ef634-7e42-43b4-8f8b-98f1d5c4b550</webElementGuid>
+      <webElementGuid>ed37b938-d166-4f93-b292-c345c6741c64</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button/p</value>
-      <webElementGuid>3dc49998-2091-49e7-8930-80c3f2045065</webElementGuid>
+      <value>//li[2]/p</value>
+      <webElementGuid>c47939c0-b89a-4f5e-baea-d370d58f1c47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = 'Price lowest to highest' or . = 'Price lowest to highest')]</value>
-      <webElementGuid>e2acfa64-86a8-462c-866a-d9b2967cddfa</webElementGuid>
+      <webElementGuid>434c455d-7b1f-416c-9fcd-27b2267d4564</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Any Departure Port_cruise-search-widge_0990ae</name>
+   <tag></tag>
+   <elementGuidId>4c4e66f8-68f4-4b61-bcd9-312d0b0b30f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#rciCruiseSearchWidgetDeparturePortsFilter > div.cruise-search-widget__filter__holder > div.cruise-search-widget__selector > span.cruise-search-widget__icon.cruise-search-widget__icon__caret > span.cruise-search-widget__icon__caret__icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>10d58a1c-bd7f-4b07-a4fa-fb004f2209e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cruise-search-widget__icon__caret__icon</value>
+      <webElementGuid>0f950ae2-a538-4f70-8e38-07de9c5a003c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rciCruiseSearchWidgetDeparturePortsFilter&quot;)/div[@class=&quot;cruise-search-widget__filter__holder&quot;]/div[@class=&quot;cruise-search-widget__selector&quot;]/span[@class=&quot;cruise-search-widget__icon cruise-search-widget__icon__caret&quot;]/span[@class=&quot;cruise-search-widget__icon__caret__icon&quot;]</value>
+      <webElementGuid>524379ac-f267-474c-af4e-be420cf4c30f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rciCruiseSearchWidgetDeparturePortsFilter']/div/div/span[2]/span</value>
+      <webElementGuid>bf9ff61c-8511-49a5-b55b-e2a728dc4d6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/span[2]/span</value>
+      <webElementGuid>204c0b58-8d04-4dd5-9afd-2d4e2e6ffbb7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Search Cruises</name>
+   <tag></tag>
+   <elementGuidId>01d409d8-3eef-4a0e-bc11-9a712211c11c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#rciCruiseSearchWidgetSubmitButton > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='rciCruiseSearchWidgetSubmitButton']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f74e6f7d-45a3-4bd0-aa9c-efec4f56dbb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Search Cruises</value>
+      <webElementGuid>8974a2e5-cf4d-4236-902e-a148a0270575</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rciCruiseSearchWidgetSubmitButton&quot;)/span[1]</value>
+      <webElementGuid>56243810-3e84-4f43-9aed-1d23ea1e3839</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='rciCruiseSearchWidgetSubmitButton']/span</value>
+      <webElementGuid>545e6c86-ab1b-4c4c-a018-d3b3a1223b89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Dec ', &quot;'&quot;, '23')])[1]/following::span[3]</value>
+      <webElementGuid>733894ba-20ef-4c50-a5c9-7ee8c0e8bab3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leaving'])[1]/following::span[4]</value>
+      <webElementGuid>595c7516-62d2-43a6-8b3a-babdf3b91ed3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jan'])[1]/preceding::span[2]</value>
+      <webElementGuid>207413a4-e116-4e07-be5b-1791a3a69c59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Feb'])[1]/preceding::span[2]</value>
+      <webElementGuid>5b2c70c8-7716-4ffd-857a-c56a31754fcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>8672527b-0d4c-4865-a293-ed3cc73da801</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Search Cruises' or . = 'Search Cruises')]</value>
+      <webElementGuid>2606d99a-5355-436a-8a40-8f626ca839ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

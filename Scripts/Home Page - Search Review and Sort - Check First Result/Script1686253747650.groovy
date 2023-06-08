@@ -37,12 +37,12 @@ WebUI.click(findTestObject('Object Repository/Page_Cruises  Amazing Cruises and 
 
 WebUI.click(findTestObject('Object Repository/Page_Cruises  Amazing Cruises and Cruise De_95ece5/span_Search Cruises'))
 
-WebUI.click(findTestObject('Object Repository/Page_Find Mexico Cruises from Los Angeles  _3e07dc/p_Recommended'))
-
 WebUI.click(findTestObject('Object Repository/Page_Find Mexico Cruises from Los Angeles  _3e07dc/p_Price lowest to highest'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Find Mexico Cruises from Los Angeles  _3e07dc/h3_Ensenada Cruise'), 
-    'Ensenada Cruise')
+WebUI.click(findTestObject('Object Repository/Page_Find Mexico Cruises from Los Angeles  _3e07dc/p_Price highest to lowest'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Find Mexico Cruises from Los Angeles  _3e07dc/h3_Coastal Mexico Holiday Cruise'), 
+    'Coastal Mexico Holiday Cruise')
 
 WebUI.closeBrowser()
 

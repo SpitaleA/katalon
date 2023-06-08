@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>1e156b22-7280-46ed-b1e2-4ffd094b0e13</webElementGuid>
+      <webElementGuid>2d3f96d4-f016-4969-a24c-7cc06c8bd248</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>for</name>
       <type>Main</type>
       <value>departureCode_LAX</value>
-      <webElementGuid>8ec4cc70-30f8-47d8-8941-6fb8cfd046d9</webElementGuid>
+      <webElementGuid>9ef5e271-4487-4593-a037-09501fbe2ac8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>cruise-search-widget-filter__label</value>
-      <webElementGuid>296f8f4c-75f9-420f-b94a-4549eaea1c39</webElementGuid>
+      <webElementGuid>c8ce2fb4-36a3-44e8-af08-61537a2d40b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -48,7 +48,7 @@
       <value>
         Los Angeles, California
       </value>
-      <webElementGuid>0a28c35b-050e-4f40-8eac-399cc5207015</webElementGuid>
+      <webElementGuid>319d4fdf-2c93-4063-94e7-930ca3e7bdf3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -56,7 +56,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;layout-container__base layout-container__base--full-width layoutContainer__base--root&quot;]/div[@class=&quot;layout-container__content&quot;]/div[@class=&quot;aem-Grid aem-Grid--12 aem-Grid--default--12&quot;]/div[@class=&quot;layoutContainer parbase aem-GridColumn aem-GridColumn--default--12&quot;]/div[@class=&quot;layout-container__base layout-container__base--centered&quot;]/div[@class=&quot;layout-container__content&quot;]/div[@class=&quot;aem-Grid aem-Grid--12 aem-Grid--default--12&quot;]/div[@class=&quot;layoutContainer parbase aem-GridColumn aem-GridColumn--default--12&quot;]/div[@class=&quot;layout-container__base layout-container__base--&quot;]/div[@class=&quot;layout-container__content&quot;]/div[@class=&quot;aem-Grid aem-Grid--12 aem-Grid--default--12&quot;]/div[@class=&quot;cruiseSearchWidget parbase aem-GridColumn aem-GridColumn--default--12&quot;]/div[@class=&quot;cruise-search-widget__base cruise-search-widget--active&quot;]/div[@class=&quot;v-cloak--display&quot;]/div[@class=&quot;cruise-search-widget__dropdown&quot;]/div[@class=&quot;cruise-search-widget__dropdown-container&quot;]/div[@class=&quot;cruise-search-widget__dropdown-body&quot;]/div[@class=&quot;cruise-search-widget-filter__base&quot;]/div[@class=&quot;cruise-search-widget-filter__options&quot;]/div[@class=&quot;cruise-search-widget-filter__option&quot;]/label[@class=&quot;cruise-search-widget-filter__label&quot;]</value>
-      <webElementGuid>873e34f5-9f86-409a-ae01-a9d9b8ec0e38</webElementGuid>
+      <webElementGuid>c1f01f14-4738-44c3-b3dd-e160ccfbba6e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -64,7 +64,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div[3]/div/div/div/div/div/div/div/div/div/div/div[3]/div/div/div/div[2]/div[14]/label</value>
-      <webElementGuid>6730a424-1f01-4c1a-bf43-3bb7b4123c12</webElementGuid>
+      <webElementGuid>866cac37-099c-4098-8eb0-b96001d6302f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='New Orleans, Louisiana'])[1]/following::label[1]</value>
-      <webElementGuid>ef3cfbd8-7f51-47be-a175-78f781fb10ba</webElementGuid>
+      <webElementGuid>e527d86a-1662-4b64-8620-c6bf54160ec1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tampa, Florida'])[1]/following::label[2]</value>
-      <webElementGuid>922daa5a-7c8b-4d73-a6bb-2fd6669fb0cf</webElementGuid>
+      <webElementGuid>517f9eaf-7c61-4da6-8525-69c3d6ea6d27</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Boston, Massachusetts'])[1]/preceding::label[1]</value>
-      <webElementGuid>70c0ed5b-bee1-460b-b7b5-8f0948ab71c2</webElementGuid>
+      <webElementGuid>b1b17d28-b11a-451a-b1ac-9ccb09452d5d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +96,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='San Diego, California'])[1]/preceding::label[2]</value>
-      <webElementGuid>dc3f2dd4-9cc4-40fd-9c3d-f8f9722e6dc2</webElementGuid>
+      <webElementGuid>c72db670-7a3b-4fa1-88ee-32620f67a298</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Los Angeles, California']/parent::*</value>
+      <webElementGuid>7bad6856-0b7c-4bed-8e3e-55189ed9976f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +112,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[14]/label</value>
-      <webElementGuid>40b1687c-a3a1-4be8-998d-5f9e91efc505</webElementGuid>
+      <webElementGuid>382005ab-cd61-478f-87b5-8d3bd66fc7ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -116,6 +124,6 @@
       ' or . = '
         Los Angeles, California
       ')]</value>
-      <webElementGuid>d9b1935e-1b05-4a62-b2e5-396fd0d156d4</webElementGuid>
+      <webElementGuid>3fa74824-0139-46d9-ab92-860004f0c23e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>45d7285f-8df6-4587-b6eb-58b6bf88796a</webElementGuid>
+      <webElementGuid>ec11c098-f136-4a31-8958-f0b9e159d691</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>notification-banner__section-close</value>
-      <webElementGuid>fafbad04-3a23-40f1-942b-dc02cc425410</webElementGuid>
+      <webElementGuid>9ead0e2a-73e4-42b4-b311-185343692b4c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;layout-container__base layout-container__base--full-width layoutContainer__base--root&quot;]/div[@class=&quot;layout-container__content&quot;]/div[@class=&quot;notification-banner__wrapper notification-banner__wrapper--visible&quot;]/div[@class=&quot;notification-banner__body&quot;]/div[@class=&quot;notification-banner__modal&quot;]/div[@class=&quot;notification-banner__section-close&quot;]</value>
-      <webElementGuid>37c2e45a-7670-4bb9-8b8c-58ea351f5092</webElementGuid>
+      <webElementGuid>7fe3d02c-ed49-48d4-bedf-56882b4f5aaa</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,39 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[2]/div/div[2]/div</value>
-      <webElementGuid>ae9ea2f5-d1e8-40a3-8992-d97db85e1b15</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='cruise rooms'])[1]/following::div[7]</value>
-      <webElementGuid>8aaf42f5-2709-4061-92a1-e5c2876c2ee0</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='boldest cruise ships'])[1]/following::div[7]</value>
-      <webElementGuid>597b45ea-9176-4dfa-b7c4-5df24e1910da</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up and receive $50 OFF your next sailing!'])[1]/preceding::div[2]</value>
-      <webElementGuid>ed3fdace-70ff-4199-879d-378158835e53</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter your email address'])[1]/preceding::div[2]</value>
-      <webElementGuid>40874442-55f2-4c09-af0b-5173f4dad17d</webElementGuid>
+      <webElementGuid>d6033f6e-95c2-44be-8444-afeba9996d3c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +54,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/div[2]/div/div[2]/div</value>
-      <webElementGuid>eab9e83c-a375-40cd-b2a8-dc7673b23ecb</webElementGuid>
+      <webElementGuid>a2d9c7fe-aceb-4fdd-84a9-e5d83bbb3ae6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

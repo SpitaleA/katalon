@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Search Cruises</name>
+   <tag></tag>
+   <elementGuidId>0ad03b12-46f6-4b09-8b3f-496d20712161</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#rciCruiseSearchWidgetSubmitButton</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='rciCruiseSearchWidgetSubmitButton']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6e4a97bf-892c-43dd-873f-96fc9430ff53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>rciCruiseSearchWidgetSubmitButton</value>
+      <webElementGuid>d75e737e-e8cc-4830-a030-5ed26310e1b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cruise-search-widget__button cruise-search-widget__button--blue</value>
+      <webElementGuid>d1fadfd2-c223-4de5-adf5-21aecdda4adb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Search Cruises</value>
+      <webElementGuid>c029f25e-309e-40fe-a763-bc80631034d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rciCruiseSearchWidgetSubmitButton&quot;)</value>
+      <webElementGuid>b0373fca-5515-4418-9e0e-63568f9e474f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='rciCruiseSearchWidgetSubmitButton']</value>
+      <webElementGuid>f30b8cc2-323a-4f32-bde0-2b323d641bca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[3]/div/div/div/div/div/div/div/div/div/div/div[2]/div[4]/button</value>
+      <webElementGuid>024b6f18-c9ef-468d-913f-3677b2253269</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Dec ', &quot;'&quot;, '23')])[1]/following::button[1]</value>
+      <webElementGuid>741c0cea-85cc-48eb-81f1-5b8d554ec867</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leaving'])[1]/following::button[1]</value>
+      <webElementGuid>ef63d037-6e71-47af-a75a-cf40841987f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jan'])[1]/preceding::button[1]</value>
+      <webElementGuid>d812fa7e-c176-4ad7-a6f1-664685dde697</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[4]/button</value>
+      <webElementGuid>631dffd3-309e-4aaa-b13c-063bc9bf0d8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'rciCruiseSearchWidgetSubmitButton' and (text() = 'Search Cruises' or . = 'Search Cruises')]</value>
+      <webElementGuid>421bbd7f-5d35-4b4d-8f3f-21835acd5bd6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

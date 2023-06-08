@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Cruising to Any Destination</name>
+   <tag></tag>
+   <elementGuidId>4fb15b55-fffa-4b8b-bf0b-e3aa2d949169</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.cruise-search-widget__filter__holder</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rciCruiseSearchWidgetDestinationsFilter']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a913b1ae-b86c-419b-ad95-53c32fa09e82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cruise-search-widget__filter__holder</value>
+      <webElementGuid>1a6f895c-539e-4739-9eca-762744a9ca14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cruising to Any Destination </value>
+      <webElementGuid>758461a8-d4a4-4b1d-9bd1-c209105b8b30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rciCruiseSearchWidgetDestinationsFilter&quot;)/div[@class=&quot;cruise-search-widget__filter__holder&quot;]</value>
+      <webElementGuid>bf1819d6-d881-4ece-857a-f4d1abcc33ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rciCruiseSearchWidgetDestinationsFilter']/div</value>
+      <webElementGuid>80c9911d-93a4-4245-8336-191a0e11bbaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Find a Cruise'])[2]/following::div[3]</value>
+      <webElementGuid>446fd317-9618-47ee-9021-fb831636f264</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Book Now'])[2]/following::div[16]</value>
+      <webElementGuid>d8a7c6db-7434-44d1-b170-5848afb6c582</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div/div/div[2]/div/div</value>
+      <webElementGuid>84536200-d9e1-4d75-a43b-8625ef90a099</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Cruising to Any Destination ' or . = 'Cruising to Any Destination ')]</value>
+      <webElementGuid>4d7b4c51-66d6-4e84-8977-20b49b9ff6d4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

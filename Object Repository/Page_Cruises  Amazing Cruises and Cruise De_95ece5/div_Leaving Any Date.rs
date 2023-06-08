@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>1970c10d-498f-4208-bbf5-9a5836042178</webElementGuid>
+      <webElementGuid>ba0d74a8-0dcf-4b57-959c-6624ae844dd9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>cruise-search-widget__filter__holder</value>
-      <webElementGuid>1a8dff9a-c634-447f-a577-94b414fbf230</webElementGuid>
+      <webElementGuid>5d6ebca8-ac22-44f2-8deb-c5d549767150</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Leaving Any Date </value>
-      <webElementGuid>c8710533-6b99-477e-9021-f7a3153dc312</webElementGuid>
+      <webElementGuid>783d503a-980f-4577-ba3e-9e460f0e3d8d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;rciCruiseSearchWidgetDatesFilter&quot;)/div[@class=&quot;cruise-search-widget__filter__holder&quot;]</value>
-      <webElementGuid>0fbbcab6-179c-400b-b81a-13116bacdd04</webElementGuid>
+      <webElementGuid>ab046ba5-c369-49ac-8dea-cea2755f9b9e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='rciCruiseSearchWidgetDatesFilter']/div</value>
-      <webElementGuid>fa5cab31-6b8a-4a21-9a54-9922d36e3c14</webElementGuid>
+      <webElementGuid>5ffdf3ce-fc38-476f-a3c7-fcf8beaf72c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Los Angeles, California'])[1]/following::div[2]</value>
-      <webElementGuid>cf496388-c1c5-439d-9e4f-990fb114dbb7</webElementGuid>
+      <webElementGuid>c2e39609-0b91-463b-8660-adcf694f35fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Departing from'])[1]/following::div[3]</value>
-      <webElementGuid>0dcde6eb-82b9-49a5-9738-c3d6797374af</webElementGuid>
+      <webElementGuid>774f43e2-f641-4263-a75e-46f6798e626f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div[2]/div[3]/div</value>
-      <webElementGuid>8fa66a11-b268-4805-8709-7ff93403e90c</webElementGuid>
+      <webElementGuid>65a71380-23d7-40ed-ae12-258eb45413d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Leaving Any Date ' or . = 'Leaving Any Date ')]</value>
-      <webElementGuid>176e5253-57eb-4754-9282-4ddafe54a5e4</webElementGuid>
+      <webElementGuid>59909dbd-de1e-4652-8fda-db42cf49a9a6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

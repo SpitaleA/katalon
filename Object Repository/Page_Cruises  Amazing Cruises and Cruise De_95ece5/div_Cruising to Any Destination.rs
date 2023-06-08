@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>dc00fa69-d3a6-43cc-8f6c-4de281898b54</webElementGuid>
+      <webElementGuid>337a532e-3d8d-4e36-adb6-69b88412c672</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>cruise-search-widget__filter__holder</value>
-      <webElementGuid>5021f96c-3fe4-4756-b89a-33f34563b7a6</webElementGuid>
+      <webElementGuid>33ff8f27-5d71-4640-93eb-0d1985260166</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Cruising to Any Destination </value>
-      <webElementGuid>cda64a18-0072-4af1-919e-ad978e4a1ee1</webElementGuid>
+      <webElementGuid>b54f4729-22ea-4bba-91b7-47677c295ba5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;rciCruiseSearchWidgetDestinationsFilter&quot;)/div[@class=&quot;cruise-search-widget__filter__holder&quot;]</value>
-      <webElementGuid>934396b5-6d7a-4f8c-bbee-69919979c848</webElementGuid>
+      <webElementGuid>3a9c176c-64e8-41f4-9ac1-3c06ba66f28b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='rciCruiseSearchWidgetDestinationsFilter']/div</value>
-      <webElementGuid>60e4a489-ca3e-482b-9318-da67ba3910bd</webElementGuid>
+      <webElementGuid>9db139b2-559c-47ba-ae9a-5b12d11be08b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Find a Cruise'])[2]/following::div[3]</value>
-      <webElementGuid>fc38b99c-c3b1-4371-bac2-546dc8189953</webElementGuid>
+      <webElementGuid>2967b81b-4a1a-4a5f-8bfc-f47d981e503a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Book Now'])[2]/following::div[16]</value>
-      <webElementGuid>e983976b-1f99-4ca4-84e4-0a7c1a49789b</webElementGuid>
+      <webElementGuid>5dc5effb-aa54-495d-8059-c78ce31ef870</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div/div/div/div/div/div[2]/div/div</value>
-      <webElementGuid>f66920b7-db37-4971-bdf1-929b94643803</webElementGuid>
+      <webElementGuid>9c2ba10f-dd91-4dfa-8c93-e2930d38ba8d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Cruising to Any Destination ' or . = 'Cruising to Any Destination ')]</value>
-      <webElementGuid>d8e1fe3c-1f1b-4b64-81af-77cce43cddc7</webElementGuid>
+      <webElementGuid>ecc331d4-ea0a-4fb8-a293-4c01a20f5f16</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

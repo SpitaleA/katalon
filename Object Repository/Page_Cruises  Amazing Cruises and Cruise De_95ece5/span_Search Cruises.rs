@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>f74e6f7d-45a3-4bd0-aa9c-efec4f56dbb7</webElementGuid>
+      <webElementGuid>4b286583-5f61-44f8-85ec-72ef59bf67b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Search Cruises</value>
-      <webElementGuid>8974a2e5-cf4d-4236-902e-a148a0270575</webElementGuid>
+      <webElementGuid>f7d2f4c8-e03a-48f5-bd39-1c38f2811999</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;rciCruiseSearchWidgetSubmitButton&quot;)/span[1]</value>
-      <webElementGuid>56243810-3e84-4f43-9aed-1d23ea1e3839</webElementGuid>
+      <webElementGuid>39992dd8-674e-44b3-9ce9-0574f3e3db36</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='rciCruiseSearchWidgetSubmitButton']/span</value>
-      <webElementGuid>545e6c86-ab1b-4c4c-a018-d3b3a1223b89</webElementGuid>
+      <webElementGuid>8e4f6d8f-8abe-4922-ab75-960fd75ccc43</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Dec ', &quot;'&quot;, '23')])[1]/following::span[3]</value>
-      <webElementGuid>733894ba-20ef-4c50-a5c9-7ee8c0e8bab3</webElementGuid>
+      <webElementGuid>c25677e1-fd03-417b-8142-dcfa9d6e6af0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Leaving'])[1]/following::span[4]</value>
-      <webElementGuid>595c7516-62d2-43a6-8b3a-babdf3b91ed3</webElementGuid>
+      <webElementGuid>8d609e99-2f28-4253-bbcd-9bd14dfc82cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Jan'])[1]/preceding::span[2]</value>
-      <webElementGuid>207413a4-e116-4e07-be5b-1791a3a69c59</webElementGuid>
+      <webElementGuid>06159379-c80c-4e73-ac9d-a1dd53acb1c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Feb'])[1]/preceding::span[2]</value>
-      <webElementGuid>5b2c70c8-7716-4ffd-857a-c56a31754fcc</webElementGuid>
+      <webElementGuid>022f2a11-3303-4743-b6d0-9ce13cbaf3f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button/span</value>
-      <webElementGuid>8672527b-0d4c-4865-a293-ed3cc73da801</webElementGuid>
+      <webElementGuid>1d27ee92-5ff2-41b2-89c5-032887e8bc21</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Search Cruises' or . = 'Search Cruises')]</value>
-      <webElementGuid>2606d99a-5355-436a-8a40-8f626ca839ae</webElementGuid>
+      <webElementGuid>5595f456-d371-46db-884b-fceb35d660de</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

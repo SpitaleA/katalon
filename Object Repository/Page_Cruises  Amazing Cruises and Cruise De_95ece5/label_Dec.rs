@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>775b80a5-8a08-453f-88d9-cd44ef911f98</webElementGuid>
+      <webElementGuid>dfe71908-4e4e-436c-9c61-5247d41a7fc4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>for</name>
       <type>Main</type>
       <value>dates_2023-12</value>
-      <webElementGuid>1049385e-856c-43ce-b0e7-d18eb32adcb9</webElementGuid>
+      <webElementGuid>f29be77a-3543-4388-964d-8ccd08d0b4dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>cruise-search-widget-filter__month-label</value>
-      <webElementGuid>4e85c248-5e46-4da1-8205-8f6eede49ccb</webElementGuid>
+      <webElementGuid>b26ab422-99d8-45ba-a4e5-ad70fae3b07e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -48,7 +48,7 @@
       <value>
             Dec
           </value>
-      <webElementGuid>366b77c5-df14-4b8e-ac68-61b78111cf80</webElementGuid>
+      <webElementGuid>66dc5cd3-59e6-4cba-ba27-4a5b1cf1d983</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -56,7 +56,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;layout-container__base layout-container__base--full-width layoutContainer__base--root&quot;]/div[@class=&quot;layout-container__content&quot;]/div[@class=&quot;aem-Grid aem-Grid--12 aem-Grid--default--12&quot;]/div[@class=&quot;layoutContainer parbase aem-GridColumn aem-GridColumn--default--12&quot;]/div[@class=&quot;layout-container__base layout-container__base--centered&quot;]/div[@class=&quot;layout-container__content&quot;]/div[@class=&quot;aem-Grid aem-Grid--12 aem-Grid--default--12&quot;]/div[@class=&quot;layoutContainer parbase aem-GridColumn aem-GridColumn--default--12&quot;]/div[@class=&quot;layout-container__base layout-container__base--&quot;]/div[@class=&quot;layout-container__content&quot;]/div[@class=&quot;aem-Grid aem-Grid--12 aem-Grid--default--12&quot;]/div[@class=&quot;cruiseSearchWidget parbase aem-GridColumn aem-GridColumn--default--12&quot;]/div[@class=&quot;cruise-search-widget__base cruise-search-widget--active&quot;]/div[@class=&quot;v-cloak--display&quot;]/div[@class=&quot;cruise-search-widget__dropdown&quot;]/div[@class=&quot;cruise-search-widget__dropdown-container&quot;]/div[@class=&quot;cruise-search-widget__dropdown-body&quot;]/div[@class=&quot;cruise-search-widget-filter__base cruise-search-widget-filter__base--type-date&quot;]/div[@class=&quot;cruise-search-widget-filter__year&quot;]/div[@class=&quot;cruise-search-widget-filter__months&quot;]/div[@class=&quot;cruise-search-widget-filter__month&quot;]/label[@class=&quot;cruise-search-widget-filter__month-label&quot;]</value>
-      <webElementGuid>9eac9e1a-e83f-405a-ad35-80cc0df84865</webElementGuid>
+      <webElementGuid>1c3d5520-e2b4-4988-87e1-832936c08fcd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -64,7 +64,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div[3]/div/div/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div[2]/div[12]/label</value>
-      <webElementGuid>6c93fc93-29ad-4c56-8176-31b723b4ff1d</webElementGuid>
+      <webElementGuid>3f0a13be-cb33-4846-bd04-1f74e8b8536a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nov'])[1]/following::label[1]</value>
-      <webElementGuid>d0a69e00-2c72-468b-adfb-7041db68bffc</webElementGuid>
+      <webElementGuid>307b1d3c-c36e-4f5c-84ac-8772aa07b237</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Oct'])[1]/following::label[2]</value>
-      <webElementGuid>6707d2dd-9933-422f-8b03-bc5fda6870e6</webElementGuid>
+      <webElementGuid>220d7a84-4eb7-46b0-9bea-a4e2932e3bf8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Jan'])[2]/preceding::label[1]</value>
-      <webElementGuid>b791b975-1f9e-4d18-8e6e-a60d30f85360</webElementGuid>
+      <webElementGuid>bbe6e33c-5026-4076-ae7d-7e9ef17c3dda</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,15 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Feb'])[2]/preceding::label[2]</value>
-      <webElementGuid>77fddc25-a15c-4301-a9f5-d6508445bb5f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Dec']/parent::*</value>
-      <webElementGuid>6791503d-99a0-466d-a74b-4a15d261c964</webElementGuid>
+      <webElementGuid>f693cdff-2549-4001-8ea7-7b1910a41fa5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +104,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[12]/label</value>
-      <webElementGuid>acea0a3d-daaa-4daf-bb31-86c68a4e3286</webElementGuid>
+      <webElementGuid>0fdb8ea6-a6ae-4db8-8ac5-e5b1e18a839e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -124,6 +116,6 @@
           ' or . = '
             Dec
           ')]</value>
-      <webElementGuid>bcd6c803-45a0-4acf-be95-bcc0515138f0</webElementGuid>
+      <webElementGuid>cf6915e9-4715-4e09-8593-7ad786735fcb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

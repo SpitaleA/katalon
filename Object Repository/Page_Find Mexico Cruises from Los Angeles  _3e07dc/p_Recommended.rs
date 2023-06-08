@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>74b3abdd-a114-49d7-b6b2-2e190affd3c0</webElementGuid>
+      <webElementGuid>4154133d-d2c8-4a1b-ae67-e0a00c02eaa6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Recommended</value>
-      <webElementGuid>68eb4002-1045-4b1a-997d-63f5c8ebfc94</webElementGuid>
+      <webElementGuid>0f2b3fb9-3137-4568-8fb5-b9eb8fc6a95c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;results-dropdown-sort&quot;)/div[@class=&quot;styles__Container-sc-109olgd-0 cVBVvq dropdown-container&quot;]/div[@class=&quot;styles__DropdownContainer-sc-109olgd-1 hVnCrU&quot;]/button[@class=&quot;styles__Select-sc-109olgd-2 gnPBfy btn-style-text DROPDOWN_BUTTON&quot;]/p[1]</value>
-      <webElementGuid>464c5ce5-0455-4f3b-927a-b991b79d9132</webElementGuid>
+      <webElementGuid>0c5b42a7-60dc-4925-9411-4c3641acc56a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='results-dropdown-sort']/div[2]/div/button/p</value>
-      <webElementGuid>68262607-9279-4628-a578-b3f7da31f347</webElementGuid>
+      <webElementGuid>d899ffea-327e-41b4-87ed-c8e7881583d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='USD'])[1]/following::p[2]</value>
-      <webElementGuid>3f41a0e2-a41d-4b8b-9e7f-9c5d684864c8</webElementGuid>
+      <webElementGuid>c45d2f47-4c2e-44ec-83f6-3ec2bed52744</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Currency:'])[1]/following::p[2]</value>
-      <webElementGuid>8ebcb809-2bf3-4ff5-b04f-d2dc4efb18e2</webElementGuid>
+      <webElementGuid>0215e670-b80b-4aec-acc8-518d17958039</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Includes Holiday Cruises'])[1]/preceding::p[6]</value>
-      <webElementGuid>b032a303-bb16-489b-9554-bb19b728b8e8</webElementGuid>
+      <webElementGuid>796bf5ff-a82a-4aff-a1f4-b43226146c8c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Catalina &amp; Ensenada Cruise'])[1]/preceding::p[6]</value>
-      <webElementGuid>8c9b22f4-ef54-4821-a7e1-b1979d8b4d21</webElementGuid>
+      <webElementGuid>dfc4c3f7-f4d1-4978-83d1-37dd67b1f987</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Recommended']/parent::*</value>
-      <webElementGuid>cdb70c1f-7523-4707-aade-02ce43725d0b</webElementGuid>
+      <webElementGuid>ce59402f-b058-43fd-a145-6928408db590</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button/p</value>
-      <webElementGuid>de8a4d7d-7cfc-45bb-9f41-89527af24463</webElementGuid>
+      <webElementGuid>1403a54e-4e3d-4c59-97c8-2c524b72d168</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = 'Recommended' or . = 'Recommended')]</value>
-      <webElementGuid>7a257bd5-6526-41ef-b7ef-d1562e77aaf4</webElementGuid>
+      <webElementGuid>b181bcc3-ea87-4e01-b9f3-661ff167d7ec</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>f6bd8b29-48c0-4f09-99fd-a8b246507c4b</webElementGuid>
+      <webElementGuid>a43c05f9-6348-45d2-854b-e980b3206a49</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Price lowest to highest</value>
-      <webElementGuid>31f2705c-0e3e-4ba2-adcf-856546fd3193</webElementGuid>
+      <webElementGuid>da15e171-5694-498e-a840-927c013c55b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;results-dropdown-sort&quot;)/div[@class=&quot;styles__Container-sc-109olgd-0 cVBVvq open dropdown-container&quot;]/div[@class=&quot;styles__DropdownContainer-sc-109olgd-1 hVnCrU&quot;]/div[@class=&quot;styles__Modal-sc-109olgd-3 jwdpgZ&quot;]/div[@class=&quot;styles__ModalDropdown-sc-109olgd-4 iYFnxJ&quot;]/ul[@class=&quot;styles__List-sc-109olgd-5 gTUHUS&quot;]/li[@class=&quot;styles__Item-sc-109olgd-6 iVxJwD dropdown-list-item&quot;]/p[1]</value>
-      <webElementGuid>e07680df-f179-4d60-b296-c37af1a44f58</webElementGuid>
+      <webElementGuid>389ce411-bc6a-4ba8-85a6-cba4ae977704</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='results-dropdown-sort']/div[2]/div/div/div/ul/li[2]/p</value>
-      <webElementGuid>848527c5-a333-4809-bb02-1896b7e037bc</webElementGuid>
+      <webElementGuid>6a00f2d5-53b5-41b9-9b75-e1df8e91acd3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='USD'])[1]/following::p[4]</value>
-      <webElementGuid>0cce610b-9898-4e42-adf2-67ba21889ff4</webElementGuid>
+      <webElementGuid>7ccff76b-100e-4bd0-98c8-57e147870050</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Currency:'])[1]/following::p[4]</value>
-      <webElementGuid>3248906f-5369-4342-a1a9-6243af1c3365</webElementGuid>
+      <webElementGuid>bc66f527-cb16-4094-bba9-85d36410d7fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Includes Holiday Cruises'])[1]/preceding::p[4]</value>
-      <webElementGuid>c5a82eea-eb0e-47d4-89a6-42d61a88edca</webElementGuid>
+      <webElementGuid>71f1d2eb-f1cf-4298-8098-a15e386146bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Catalina &amp; Ensenada Cruise'])[1]/preceding::p[4]</value>
-      <webElementGuid>5a7dfc83-fc26-416f-ab14-768169284fec</webElementGuid>
+      <webElementGuid>8a35b69f-5ef2-4741-9ce4-ad28c41fbba9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Price lowest to highest']/parent::*</value>
-      <webElementGuid>ed37b938-d166-4f93-b292-c345c6741c64</webElementGuid>
+      <webElementGuid>a7d07fdd-aa15-4d0b-bcc0-ff9d70a34417</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/p</value>
-      <webElementGuid>c47939c0-b89a-4f5e-baea-d370d58f1c47</webElementGuid>
+      <webElementGuid>ea01e59c-7ab9-45ab-8cb4-3608daec8db7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = 'Price lowest to highest' or . = 'Price lowest to highest')]</value>
-      <webElementGuid>434c455d-7b1f-416c-9fcd-27b2267d4564</webElementGuid>
+      <webElementGuid>81dffc74-9ad4-439b-a72b-21c1a50ad857</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

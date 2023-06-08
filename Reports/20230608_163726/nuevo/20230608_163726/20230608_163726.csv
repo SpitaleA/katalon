@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+nuevo,Chrome 114.0.0.0,,,2023-06-08 16:37:32,2023-06-08 16:37:59,"26,377s",PASSED
+,,,,,,,
+Test Cases/test1,Chrome 114.0.0.0,,,2023-06-08 16:37:32,2023-06-08 16:37:59,"26,186s",PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-08 16:37:33,2023-06-08 16:37:35,"2,062s",PASSED
+"navigateToUrl(""https://www.royalcaribbean.com/"")",Chrome 114.0.0.0,,,2023-06-08 16:37:35,2023-06-08 16:37:49,"14,297s",PASSED
+"click(findTestObject(""Object Repository/Page_Cruises  Amazing Cruises and Cruise De_95ece5/div_cruise rooms_notification-banner__secti_617cae""))",Chrome 114.0.0.0,,,2023-06-08 16:37:49,2023-06-08 16:37:50,"0,809s",PASSED
+"click(findTestObject(""Object Repository/Page_Cruises  Amazing Cruises and Cruise De_95ece5/div_Cruising to Any Destination""))",Chrome 114.0.0.0,,,2023-06-08 16:37:50,2023-06-08 16:37:51,"0,670s",PASSED
+"click(findTestObject(""Object Repository/Page_Cruises  Amazing Cruises and Cruise De_95ece5/label_Mexico""))",Chrome 114.0.0.0,,,2023-06-08 16:37:51,2023-06-08 16:37:51,"0,646s",PASSED
+"click(findTestObject(""Object Repository/Page_Cruises  Amazing Cruises and Cruise De_95ece5/div_Departing from Any Departure Port""))",Chrome 114.0.0.0,,,2023-06-08 16:37:51,2023-06-08 16:37:52,"0,615s",PASSED
+"click(findTestObject(""Object Repository/Page_Cruises  Amazing Cruises and Cruise De_95ece5/label_Los Angeles, California""))",Chrome 114.0.0.0,,,2023-06-08 16:37:52,2023-06-08 16:37:52,"0,632s",PASSED
+"click(findTestObject(""Object Repository/Page_Cruises  Amazing Cruises and Cruise De_95ece5/div_Leaving Any Date""))",Chrome 114.0.0.0,,,2023-06-08 16:37:52,2023-06-08 16:37:53,"0,631s",PASSED
+"click(findTestObject(""Object Repository/Page_Cruises  Amazing Cruises and Cruise De_95ece5/label_Dec""))",Chrome 114.0.0.0,,,2023-06-08 16:37:53,2023-06-08 16:37:54,"0,637s",PASSED
+"click(findTestObject(""Object Repository/Page_Cruises  Amazing Cruises and Cruise De_95ece5/button_Search Cruises""))",Chrome 114.0.0.0,,,2023-06-08 16:37:54,2023-06-08 16:37:56,"1,984s",PASSED
+"click(findTestObject(""Object Repository/Page_Find Mexico Cruises from Los Angeles  _3e07dc/p_Recommended""))",Chrome 114.0.0.0,,,2023-06-08 16:37:56,2023-06-08 16:37:57,"0,974s",PASSED
+"click(findTestObject(""Object Repository/Page_Find Mexico Cruises from Los Angeles  _3e07dc/p_Price lowest to highest""))",Chrome 114.0.0.0,,,2023-06-08 16:37:57,2023-06-08 16:37:57,"0,763s",PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Find Mexico Cruises from Los Angeles  _3e07dc/h3_Ensenada Cruise""), ""Ensenada Cruise"")",Chrome 114.0.0.0,,,2023-06-08 16:37:57,2023-06-08 16:37:58,"0,502s",PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-06-08 16:37:58,2023-06-08 16:37:59,"0,654s",PASSED

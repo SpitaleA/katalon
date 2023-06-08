@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>6d0ec045-0c65-4f1a-9483-f47d0a829964</webElementGuid>
+      <webElementGuid>707a1d83-c0e6-46a7-b5cc-f89338f21bbe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>cruise-search-widget__filter__holder</value>
-      <webElementGuid>df64f757-e460-4c8d-bf0f-872ddef30229</webElementGuid>
+      <webElementGuid>250c1331-e3d0-4a24-94ab-4b4271f89396</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Departing from Any Departure Port </value>
-      <webElementGuid>04619620-da15-49f5-b89b-feea66e312d9</webElementGuid>
+      <webElementGuid>5a78099a-7fb8-4749-bb30-eb3b4d8bd945</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;rciCruiseSearchWidgetDeparturePortsFilter&quot;)/div[@class=&quot;cruise-search-widget__filter__holder&quot;]</value>
-      <webElementGuid>2e9dab31-e3a4-4a96-a91c-fbc41034627f</webElementGuid>
+      <webElementGuid>5042b92e-28c9-4772-a14e-171a82758f81</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='rciCruiseSearchWidgetDeparturePortsFilter']/div</value>
-      <webElementGuid>dfacc944-98c6-4320-a7a3-4332d6a694d1</webElementGuid>
+      <webElementGuid>27e9c0b4-99d9-46b1-a192-80554bc697d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mexico'])[1]/following::div[2]</value>
-      <webElementGuid>a54d809f-20f8-4ea8-9d46-08e4dc29960c</webElementGuid>
+      <webElementGuid>cdc90b82-bff7-4df7-b26e-caa22ec64938</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cruising to'])[1]/following::div[3]</value>
-      <webElementGuid>2d65080c-58ee-4bf8-a545-7f46a665e853</webElementGuid>
+      <webElementGuid>de226a26-a6aa-4765-a37f-ef22046cf77e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div[2]/div[2]/div</value>
-      <webElementGuid>567772b7-181e-4ed0-9898-76c1b0204919</webElementGuid>
+      <webElementGuid>0dd0a0d5-7400-4133-832f-1aa9b743f68e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Departing from Any Departure Port ' or . = 'Departing from Any Departure Port ')]</value>
-      <webElementGuid>94dc4841-ee2e-4857-b7f2-53394ce15f17</webElementGuid>
+      <webElementGuid>5e330ed6-2698-4847-8ddd-f12e1e2a581d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="nuevo" time="23.962" tests="1" failures="0" errors="0">
+   <testsuite name="nuevo" tests="1" failures="0" errors="0" time="23.962" skipped="0" timestamp="2023-06-08 16:35:16" hostname="agust - host.docker.internal" id="Test Suites/nuevo">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\agust\\git\\katalon\\Reports\\20230608_163514\\nuevo\\20230608_163514"/>
+         <property name="logFiles" value="C:\\Users\\agust\\git\\katalon\\Reports\\20230608_163514\\nuevo\\20230608_163514\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="agust - host.docker.internal"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.5.208"/>
+         <property name="browser" value="Chrome 114.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.105"/>
+         <property name="sessionId" value="dab60c4839956b020fc0e049590ab15a"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/test1" time="23.765" classname="Test Cases/test1" status="PASSED">
+         <system-out><![CDATA[2023-06-08 16:35:16 - [TEST_CASE][PASSED] - Test Cases/test1: Test Cases/test1
+
+2023-06-08 16:35:16 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-06-08 16:35:16 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-06-08 16:35:16 - [MESSAGE][INFO] - Action delay is set to 500 milliseconds
+
+2023-06-08 16:35:18 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-06-08 16:35:18 - [TEST_STEP][PASSED] - navigateToUrl("https://www.royalcaribbean.com/"): Navigate to 'https://www.royalcaribbean.com/' successfully
+
+2023-06-08 16:35:21 - [MESSAGE][PASSED] - Navigate to 'https://www.royalcaribbean.com/' successfully
+
+2023-06-08 16:35:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Cruises  Amazing Cruises and Cruise De_95ece5/div_cruise rooms_notification-banner__secti_617cae")): Object: 'Object Repository/Page_Cruises  Amazing Cruises and Cruise De_95ece5/div_cruise rooms_notification-banner__secti_617cae' is clicked on
+
+2023-06-08 16:35:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Cruises  Amazing Cruises and Cruise De_95ece5/div_cruise rooms_notification-banner__secti_617cae' is clicked on
+
+2023-06-08 16:35:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Cruises  Amazing Cruises and Cruise De_95ece5/div_Cruising to Any Destination")): Object: 'Object Repository/Page_Cruises  Amazing Cruises and Cruise De_95ece5/div_Cruising to Any Destination' is clicked on
+
+2023-06-08 16:35:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Cruises  Amazing Cruises and Cruise De_95ece5/div_Cruising to Any Destination' is clicked on
+
+2023-06-08 16:35:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Cruises  Amazing Cruises and Cruise De_95ece5/label_Mexico")): Object: 'Object Repository/Page_Cruises  Amazing Cruises and Cruise De_95ece5/label_Mexico' is clicked on
+
+2023-06-08 16:35:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Cruises  Amazing Cruises and Cruise De_95ece5/label_Mexico' is clicked on
+
+2023-06-08 16:35:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Cruises  Amazing Cruises and Cruise De_95ece5/div_Departing from Any Departure Port")): Object: 'Object Repository/Page_Cruises  Amazing Cruises and Cruise De_95ece5/div_Departing from Any Departure Port' is clicked on
+
+2023-06-08 16:35:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Cruises  Amazing Cruises and Cruise De_95ece5/div_Departing from Any Departure Port' is clicked on
+
+2023-06-08 16:35:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Cruises  Amazing Cruises and Cruise De_95ece5/label_Los Angeles, California")): Object: 'Object Repository/Page_Cruises  Amazing Cruises and Cruise De_95ece5/label_Los Angeles, California' is clicked on
+
+2023-06-08 16:35:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Cruises  Amazing Cruises and Cruise De_95ece5/label_Los Angeles, California' is clicked on
+
+2023-06-08 16:35:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Cruises  Amazing Cruises and Cruise De_95ece5/div_Leaving Any Date")): Object: 'Object Repository/Page_Cruises  Amazing Cruises and Cruise De_95ece5/div_Leaving Any Date' is clicked on
+
+2023-06-08 16:35:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Cruises  Amazing Cruises and Cruise De_95ece5/div_Leaving Any Date' is clicked on
+
+2023-06-08 16:35:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Cruises  Amazing Cruises and Cruise De_95ece5/label_Dec")): Object: 'Object Repository/Page_Cruises  Amazing Cruises and Cruise De_95ece5/label_Dec' is clicked on
+
+2023-06-08 16:35:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Cruises  Amazing Cruises and Cruise De_95ece5/label_Dec' is clicked on
+
+2023-06-08 16:35:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Cruises  Amazing Cruises and Cruise De_95ece5/button_Search Cruises")): Object: 'Object Repository/Page_Cruises  Amazing Cruises and Cruise De_95ece5/button_Search Cruises' is clicked on
+
+2023-06-08 16:35:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Cruises  Amazing Cruises and Cruise De_95ece5/button_Search Cruises' is clicked on
+
+2023-06-08 16:35:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Find Mexico Cruises from Los Angeles  _3e07dc/p_Recommended")): Object: 'Object Repository/Page_Find Mexico Cruises from Los Angeles  _3e07dc/p_Recommended' is clicked on
+
+2023-06-08 16:35:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Find Mexico Cruises from Los Angeles  _3e07dc/p_Recommended' is clicked on
+
+2023-06-08 16:35:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Find Mexico Cruises from Los Angeles  _3e07dc/p_Price lowest to highest")): Object: 'Object Repository/Page_Find Mexico Cruises from Los Angeles  _3e07dc/p_Price lowest to highest' is clicked on
+
+2023-06-08 16:35:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Find Mexico Cruises from Los Angeles  _3e07dc/p_Price lowest to highest' is clicked on
+
+2023-06-08 16:35:38 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Page_Find Mexico Cruises from Los Angeles  _3e07dc/h3_Ensenada Cruise"), "Ensenada Cruise"): Actual text and expected text of test object 'Object Repository/Page_Find Mexico Cruises from Los Angeles  _3e07dc/h3_Ensenada Cruise' are matched.
+
+2023-06-08 16:35:39 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Find Mexico Cruises from Los Angeles  _3e07dc/h3_Ensenada Cruise' are matched.
+
+2023-06-08 16:35:39 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-06-08 16:35:40 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-06-08 16:35:16 - [TEST_SUITE][PASSED] - nuevo: Test Cases/test1]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

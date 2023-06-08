@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>652a843d-edef-4165-9b2c-31720cb3066e</webElementGuid>
+      <webElementGuid>35bd0275-1364-4a94-a85a-acde4c59ad43</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>for</name>
       <type>Main</type>
       <value>destinationRegionCode_MEXCO</value>
-      <webElementGuid>c5079b6a-5018-490c-91de-74891408654f</webElementGuid>
+      <webElementGuid>abd70676-41f9-4ba8-9c88-c702135246cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>cruise-search-widget-filter__label</value>
-      <webElementGuid>ba8f29eb-f7df-4384-a1d5-ff6142c94d54</webElementGuid>
+      <webElementGuid>ccdc44c0-31d8-4e8f-a341-455d3d06e65e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -48,7 +48,7 @@
       <value>
         Mexico
       </value>
-      <webElementGuid>c9ed4480-fef0-4d14-8e00-f788e7cbe1fe</webElementGuid>
+      <webElementGuid>1f03558b-d2e4-4312-a497-358f9d59b24c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -56,7 +56,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;layout-container__base layout-container__base--full-width layoutContainer__base--root&quot;]/div[@class=&quot;layout-container__content&quot;]/div[@class=&quot;aem-Grid aem-Grid--12 aem-Grid--default--12&quot;]/div[@class=&quot;layoutContainer parbase aem-GridColumn aem-GridColumn--default--12&quot;]/div[@class=&quot;layout-container__base layout-container__base--centered&quot;]/div[@class=&quot;layout-container__content&quot;]/div[@class=&quot;aem-Grid aem-Grid--12 aem-Grid--default--12&quot;]/div[@class=&quot;layoutContainer parbase aem-GridColumn aem-GridColumn--default--12&quot;]/div[@class=&quot;layout-container__base layout-container__base--&quot;]/div[@class=&quot;layout-container__content&quot;]/div[@class=&quot;aem-Grid aem-Grid--12 aem-Grid--default--12&quot;]/div[@class=&quot;cruiseSearchWidget parbase aem-GridColumn aem-GridColumn--default--12&quot;]/div[@class=&quot;cruise-search-widget__base cruise-search-widget--active&quot;]/div[@class=&quot;v-cloak--display&quot;]/div[@class=&quot;cruise-search-widget__dropdown&quot;]/div[@class=&quot;cruise-search-widget__dropdown-container&quot;]/div[@class=&quot;cruise-search-widget__dropdown-body&quot;]/div[@class=&quot;cruise-search-widget-filter__base&quot;]/div[@class=&quot;cruise-search-widget-filter__options&quot;]/div[@class=&quot;cruise-search-widget-filter__option&quot;]/label[@class=&quot;cruise-search-widget-filter__label&quot;]</value>
-      <webElementGuid>880ba43e-b33e-4aa7-b7f7-5b28381eb6aa</webElementGuid>
+      <webElementGuid>3f3bf54c-13d0-4847-9252-239c261d5609</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -64,7 +64,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div[3]/div/div/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/label</value>
-      <webElementGuid>fa791183-2a15-42b1-947d-e44046fae8c2</webElementGuid>
+      <webElementGuid>cc0ccef6-8d5b-4b82-aee3-ed0edadff794</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Cruises'])[2]/following::label[1]</value>
-      <webElementGuid>a226b9cf-0457-41c7-aa1a-127fd490cf51</webElementGuid>
+      <webElementGuid>2aa46b32-ee4d-43d6-b0d3-45516606b582</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Any Date'])[1]/following::label[1]</value>
-      <webElementGuid>d9e60a5f-85b0-4647-8a38-4348b61aebed</webElementGuid>
+      <webElementGuid>20109f06-a7dc-4092-8cba-fd474485d35f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='South Pacific'])[1]/preceding::label[1]</value>
-      <webElementGuid>2cc5a215-2fed-4de8-82f9-1d59403a214d</webElementGuid>
+      <webElementGuid>1af03b48-eb4f-4b84-9ffb-48eff9322bc6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,15 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Latin America'])[1]/preceding::label[2]</value>
-      <webElementGuid>9ca155d1-93b8-4cfd-aca4-853d29872a36</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Mexico']/parent::*</value>
-      <webElementGuid>53ddcb7d-2e75-4905-993c-7ce4a67ce74c</webElementGuid>
+      <webElementGuid>e1c14107-97e4-46c3-92d2-48f32c8d5645</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +104,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div/div/label</value>
-      <webElementGuid>778badcd-2da7-4042-9e3b-6413f9402b07</webElementGuid>
+      <webElementGuid>ce81133b-670f-4d36-8a4f-de8848a5f2e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -124,6 +116,6 @@
       ' or . = '
         Mexico
       ')]</value>
-      <webElementGuid>2bad15be-4e6e-4dae-9a09-3146f439a5f8</webElementGuid>
+      <webElementGuid>239e69dd-e9a1-4f97-92b7-082ce371bb63</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
